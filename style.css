@@ -23,6 +23,11 @@ body {
     padding-right: 320px;
 }
 
+.esquerda {
+    background-color: yellow;
+    padding-top: 320px;
+}
+
 .green {
     padding-bottom: 400px;
   background-color: yellow;
